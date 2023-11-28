@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+### Credits
+[Next js Tutorial for Beginners | Nextjs 13 (App Router) with TypeScript](https://www.youtube.com/watch?v=ZVnjOPwW4ZA) by [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
+
 ## Getting Started
 
 First, run the development server:
